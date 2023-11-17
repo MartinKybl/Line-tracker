@@ -1,2 +1,2 @@
-# Line-tracker
-A model car with line tracking sensors for navigation and a ultrasonic sensor for avoiding crashes with obstacles
+# Autíčko sledující čáru
+Designonání mechaniky autíčka, systém navigace autíčka podle čáry a senzor pro prevenci kolize
